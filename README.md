@@ -8,4 +8,4 @@ Python 2.7
 Windows(I have not tested on any other OS).
 
 You can change the voice by replacing them with any other voice and saving by the same name as earlier.
-If you plan to change the voice run "check all.py" once to ensure everything is working correctly.
+If you plan to check after changing the voice run "check all.py" once to ensure everything is working correctly.
