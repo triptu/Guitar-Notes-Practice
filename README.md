@@ -4,9 +4,11 @@ This program can be used to learn notes positions easily. Note's name is shown a
 Example Usage- Memorizing all the notes position one by one per string. 
 
 Requirements:
-Python 2.7
-Windows(I have not tested on any other OS).
+-Python 2.7
+
+-Windows(I have not tested on any other OS).
 
 
 You can change the voice by replacing them with any other voice and saving by the same name as earlier.
+
 If you plan to check after changing the voice run "check all.py" once to ensure everything is working correctly.
